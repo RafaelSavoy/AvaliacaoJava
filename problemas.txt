@@ -1,0 +1,30 @@
+1. A empresa “Millennium Falcon” contratou você para crie um software de aplicação em Java. A
+aplicação deverá permitir a “entrada” de dois números, do tipo decimal, e deve realizar operações
+aritméticas entre eles:
+a. O Usuário deverá ser capas de escolher a operação Aritmética a ser executada entre os dois
+números. (Adição, Subtração, Multiplicação, Divisão);
+b. Ao final das operações aritméticas os resultados devem ser exibidos para o usuário;
+c. Faça o upload dos código-fonte no seu GitHub e compartilhe o link;
+Obs: Corrija os possíveis erros que o programa possa gerar.
+
+
+2. A Escola Corleone do Brooklyn está promovendo uma gincana entre seus alunos, e contratou você
+para criar um programa em java que leia o no de matrícula do aluno, e distribuía este aluno entre os
+4 times que terão na escola, (Time do Chris, Time do Greg, Time do Caruso, Time do Jerome).
+a. O Programa deve ler o no de Matricula do aluno;
+b. O Programa deve escolher o Time que o Aluno irá Participar;
+c. Faça o upload dos código-fonte no seu GitHub e compartilhe o link;
+Obs: Corrija os possíveis erros que o programa possa gerar.
+
+3. A Quitanda do Seu Madruga está vendendo frutas com a seguinte tabela de preços:
+
+Morangos – R$ 2,50 o kilo;
+Maças – R$ 1,80 o kilo;
+Bananas – R$ 1,30 o kilo;
+Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00,
+receberá ainda um desconto de 10% sobre este total.
+a. Escreva um algoritmo para ler a quantidade (em Kg) de morangos, a quantidade (em
+Kg) de maças e a quantidade (em Kg) de bananas adquiridas
+b. escreva o valor a ser pago pelo cliente.
+c. Faça o upload dos código-fonte no seu GitHub e compartilhe o link;
+Obs: Corrija os possíveis erros que o programa possa gerar.
